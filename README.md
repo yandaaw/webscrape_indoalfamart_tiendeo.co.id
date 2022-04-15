@@ -1,4 +1,4 @@
-# webscrape_indoalfamart_tiendeo.co.id
+# Web Scraping - tiendeo.co.id - Indomaret and Alfamart
 <p align="center">
   <img width="200" height="200" src="https://play-lh.googleusercontent.com/xd6wHVA1e4FJS3A1NtbbifQhYLSVzspYTvRZfKH4ZT8cdiirSzTWIzJMn3qXOsz08C0=s180-rw">
 </p>
